@@ -14,7 +14,7 @@ Aplicabilidade: Use o padrão Prototype quando um sistema tiver que ser independ
 
 #### Estrutura:
 
-![Estrutura Prototype]()
+![Estrutura Prototype](https://github.com/camimassaneiro/Padrao-Projeto-Prototype-GOF/blob/master/Estrutura%20prototype.PNG)
 
 Participantes:
 
